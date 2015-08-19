@@ -1,4 +1,4 @@
-= Nor's Photo Album = [![Build Status](https://travis-ci.org/wraix/nors-photo-album.svg?branch=master)](https://travis-ci.org/wraix/nors-photo-album)
+# Nor's Photo Album  [![Build Status](https://travis-ci.org/wraix/nors-photo-album.svg?branch=master)](https://travis-ci.org/wraix/nors-photo-album)
 
 A selfhosted responsive photo album.
 
