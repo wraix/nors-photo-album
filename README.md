@@ -2,7 +2,7 @@
 
 A selfhosted responsive photo album.
 
-= Using =
+## With help from open source libraries
 * PHP 5.5, https://secure.php.net/
 * PHP GD, http://php.net/manual/en/book.image.php
 * Bootstrap, http://getbootstrap.com/
